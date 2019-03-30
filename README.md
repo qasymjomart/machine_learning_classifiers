@@ -6,8 +6,8 @@ This is course project of Programming for Engineering course. Different machine 
 
 ### What I learnt?
 
-Firstly, I learned how to code and syntax of C++. Also, get acquainted with basic theory of Machine Learning.
+I learned how to code and syntax of C. Learnt to apply Machine learning along with R language.
 
 ### Technologies used:
 
-C++, Machine Learning, R language
+C/C++, Machine Learning, R language
